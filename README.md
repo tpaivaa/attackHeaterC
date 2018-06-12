@@ -27,6 +27,4 @@ HighVoltage sensors
 Button
 1 - D14
 
-![My board front](https://photos.google.com/photo/AF1QipM2WsvpGHSAHGJIGEXk7a_k6wisy2wk5uOhglhI)
-![My board Back](https://photos.google.com/photo/AF1QipOtNiOR2qy72LN9f7ltcDu2QTWyHGkKkxPkwPXH)
 ![Photos](https://photos.app.goo.gl/nnA6WRdr72XFV13X9)
